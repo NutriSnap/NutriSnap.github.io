@@ -109,11 +109,12 @@ Seamlessly log your meals by capturing them with NutriSnap's intelligent camera 
 | :-----------------------------------------: | :---------------------------------------------------: |
 | ![SnapPage Screenshot](images/SnapPage.png) | ![SnapPage Dark Screenshot](images/SnapPage-Dark.png) |
 
+<!--
 ### Coach View
 
 Gain insights and advice from your virtual nutritional guide, assisting you on your healthful journey.
 
-![Coach Screenshot](images/Coach.png)
+![Coach Screenshot](images/Coach.png) -->
 
 ### Dashboard View
 
