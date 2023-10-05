@@ -53,7 +53,11 @@ Harness the power of cutting-edge ML to automatically identify and log your food
 
 ## Development Status
 
-* Project Board 1: [M1 (UI Mockup)](https://github.com/orgs/NutriSnap/projects/1)
+* Project Board 1: [NutriSnap Startup Board](https://github.com/orgs/NutriSnap/projects/1/views/2)
+* [Milestones](https://github.com/NutriSnap/NutriSnap/milestones)
+* [Milestone 1](https://github.com/NutriSnap/NutriSnap/milestone/1)
+* [Milestone 2](https://github.com/NutriSnap/NutriSnap/milestone/2)
+  
 
 ## About Us
 
