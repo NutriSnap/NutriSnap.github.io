@@ -2,6 +2,7 @@
 
 Transform your meals into nutritional insights through intelligent, camera-powered food logging.
 
+<div align="center">
 <p float="left">
   <img src="/images/LoginPage.png" width="100" />
   <img src="/images/Dashboard.png" width="100" />
@@ -10,6 +11,7 @@ Transform your meals into nutritional insights through intelligent, camera-power
   <img src="/images/Trends.png" width="100" />
   <img src="/images/Acheivements.png" width="100" />
 </p>
+</div>
 
 ## Table of Contents
 
