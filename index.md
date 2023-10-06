@@ -2,8 +2,6 @@
 
 Transform your meals into nutritional insights through intelligent, camera-powered food logging.
 
-![NutriSnap Banner](/images/banner-image.jpg)
-
 ## Table of Contents
 
 - [Motivation](#motivation)
@@ -27,6 +25,8 @@ Transform your meals into nutritional insights through intelligent, camera-power
 
 - Employ machine learning to intelligently recognize and quantify foods, evolving to understand your diet over time.
 - Classify foods based on their level of processing, and visually present dietary trends and quality.
+
+![Solution](images/banner-image.png)
 
 <!-- ![Solution Screenshot](/path_to/solution_screenshot.png) -->
 
