@@ -2,6 +2,8 @@
 
 Transform your meals into nutritional insights through intelligent, camera-powered food logging.
 
+![NutriSnap Banner](/images/banner-image.jpg)
+
 ## Table of Contents
 
 - [Motivation](#motivation)
