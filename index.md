@@ -2,6 +2,15 @@
 
 Transform your meals into nutritional insights through intelligent, camera-powered food logging.
 
+<p float="left">
+  <img src="/images/LoginPage.png" width="100" />
+  <img src="/images/Dashboard.png" width="100" />
+  <img src="/images/SnapPage.png" width="100" />
+  <img src="/images/Journal.png" width="100" />
+  <img src="/images/Trends.png" width="100" />
+  <img src="/images/Acheivements.png" width="100" />
+</p>
+
 ## Table of Contents
 
 - [Motivation](#motivation)
@@ -91,7 +100,7 @@ Leverage pioneering ML technology to effortlessly identify and track your nutrit
 
 The gateway to NutriSnap, ensuring secure and personalized user experiences.
 
-![Login Screenshot](LoginPage.png)
+![Login Screenshot](images/LoginPage.png)
 
 ### Signup View
 
