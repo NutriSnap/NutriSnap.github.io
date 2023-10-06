@@ -168,5 +168,10 @@ Visualize your nutritional trends, understanding the ebbs and flows of your diet
 NutriSnap is designed, implemented, and maintained by a team consisting of three members:
 
 - Lydia Sollis
+  <a href="https://github.com/lsollis/"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a><a href="https://www.linkedin.com/in/lydia-sollis/"><img src="images/linkedin-mark.png" alt="Linked In" width="32" height="32"></a>
+
 - Michael Rogers
+  <a href="https://github.com/mlr77"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/michael-rogers-a2a1152a/"><img src="images/linkedin-mark.png" alt="Linked In" width="32" height="32"></a>
+
 - Jingyi He
+  <a href="https://github.com/jing2003"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/jingyi-he-b16b0222b/"><img src="images/linkedin-mark.png" alt="Linked In" width="32" height="32"></a>
