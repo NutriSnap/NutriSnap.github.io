@@ -189,7 +189,8 @@ Get personalized feedback and recommendations from your NutriSnap coach. The coa
 ### Profile View
 
 Customize your NutriSnap experience and manage your account settings. Toggle between light and dark mode, and adjust your profile settings. Turn on/off notifications and mindfullness reminders.
-| Light Mode | Dark Mode |
+
+|                Light Mode                 |                      Dark Mode                      |
 | :---------------------------------------: | :-------------------------------------------------: |
 | ![Profile Screenshot](images/Profile.png) | ![Profile Dark Screenshot](images/Profile-Dark.png) |
 
@@ -198,8 +199,9 @@ Customize your NutriSnap experience and manage your account settings. Toggle bet
 ### Camera View
 
 Capture your meals with NutriSnap and let it log the nutritional info. The camera view allows you to take a picture of your food and log it into your food journal. The camera view also provides a cropping tool to allow the user to crop the image to their desired size.
-| Light Mode | Dark Mode |
-| :---------------------------------------: | :-------------------------------------------------: |
+
+|               Light Mode                |                     Dark Mode                     |
+| :-------------------------------------: | :-----------------------------------------------: |
 | ![Camera Screenshot](images/Camera.png) | ![Camera Dark Screenshot](images/Camera-Dark.png) |
 
 <a name="imagecroptool"></a>
@@ -215,8 +217,9 @@ Crop your images to your desired size. The image crop tool allows the user to cr
 ### Social View
 
 Connect with friends and family, sharing your nutritional journey and celebrating your successes. The social view allows you to connect with friends and family and share your nutritional journey. The social view also provides a feed of your friends' nutritional journey.
-| Light Mode | Dark Mode |
-| :---------------------------------------: | :-------------------------------------------------: |
+
+|               Light Mode                |                     Dark Mode                     |
+| :-------------------------------------: | :-----------------------------------------------: |
 | ![Social Screenshot](images/Social.png) | ![Social Dark Screenshot](images/Social-Dark.png) |
 
 <a name="journal"></a>
