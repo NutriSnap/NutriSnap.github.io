@@ -274,6 +274,12 @@ Visualize your nutritional trends, understanding the ebbs and flows of your diet
 
 <a name="imagecroptool"></a>
 
+## Data Model
+
+The data model encompasses a holistic representation of a user's nutritional and meal tracking application. Central to the model is the `UserData`, which maintains user details and settings, linking to their meals, snaps (visual representations of their meals), and their progress in challenges. Each snap captures specifics like its contents and images. `Meal` records are detailed with processed food percentages, and they can be associated with multiple snaps. Users can earn `Badges`, have specific app `Settings`, and track `Trends` in their eating habits. `Challenges` provide users with goals, and their progress is tracked in `ChallengeProgress`. Additionally, foods in snaps have individual item details maintained in `SnapFoodItem`. The model offers an interconnected system for users to visualize, track, and improve their eating habits.
+
+![Data Model](images/mermaid-diagram-2023-10-12-073510.png)
+
 ## About Us
 
 NutriSnap is designed, implemented, and maintained by a team consisting of three members:
