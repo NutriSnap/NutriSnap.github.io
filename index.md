@@ -13,9 +13,11 @@ Transform your meals into nutritional insights through intelligent, camera-power
         <img src="/images/Settings.png" width="75" />
         <img src="/images/Camera.png" width="75" />
         <img src="/images/Social.png" width="75" />
-        <img src="/images/SnapPage.png" width="75" />
+        <img src="/images/MySnaps.png" width="75" />
+                <img src="/images/MySnapsMenu.png" width="75" />
         <img src="/images/Coach.png" width="75" />
-        <img src="/images/Acheivements.png" width="75" />
+        <img src="/images/Challenges.png" width="75" />
+        <img src="/images/ImageCropTool.png" width="75" />
     </p>
 </div>
 
@@ -108,42 +110,72 @@ Leverage pioneering ML technology to effortlessly identify and track your nutrit
 
 The gateway to NutriSnap, ensuring secure and personalized user experiences.
 
-![Login Screenshot](images/LoginPage.png)
-
-### Signup View
-
-_Note: (Include description about the Signup view if applicable, as it was not in the images list)_
-
-### Achievements View
-
-Celebrate your nutritional victories and keep track of your progress with insightful and motivational badges.
-
-![Achievements Screenshot](images/Acheivements.png)
-
-### Camera/Snap Page
-
-Seamlessly log your meals by capturing them with NutriSnap's intelligent camera functionality.
-
-|                 Light Mode                  |                       Dark Mode                       |
-| :-----------------------------------------: | :---------------------------------------------------: |
-| ![SnapPage Screenshot](images/SnapPage.png) | ![SnapPage Dark Screenshot](images/SnapPage-Dark.png) |
-
-<!--
-### Coach View
-
-Gain insights and advice from your virtual nutritional guide, assisting you on your healthful journey.
-
-![Coach Screenshot](images/Coach.png) -->
+|                Signin Mode                |                      Signup                      |
+| :---------------------------------------: | :----------------------------------------------: |
+| ![Login Screenshot](images/LoginPage.png) | ![Register Dark Screenshot](images/Register.png) |
 
 ### Dashboard View
 
-Your nutritional overview, presenting a snapshot of your current and historical dietary habits.
+Your nutritional overview, presenting a snapshot of your current and historical dietary habits. Gain insights into your dietary habits and track your progress over time. This page provides a comprehensive overview of your nutritional journey.
 
-![Dashboard Screenshot](images/Dashboard.png)
+|                  Light Mode                   |                        Dark Mode                        |
+| :-------------------------------------------: | :-----------------------------------------------------: |
+| ![Dashboard Screenshot](images/Dashboard.png) | ![Dashboard Dark Screenshot](images/Dashboard-Dark.png) |
+
+### About View
+
+Learn more about NutriSnap and the team behind it. The about page provides a comprehensive overview of the application and its features. It also links directly to the documentation and the GitHub repository.
+
+|              Light Mode               |                    Dark Mode                    |
+| :-----------------------------------: | :---------------------------------------------: |
+| ![About Screenshot](images/About.png) | ![About Dark Screenshot](images/About-Dark.png) |
+
+### Challenges View
+
+Celebrate your nutritional victories and keep track of your progress with insightful and motivational badges.
+
+|                   Light Mode                    |                         Dark Mode                         |
+| :---------------------------------------------: | :-------------------------------------------------------: |
+| ![Challenges Screenshot](images/Challenges.png) | ![Challenges Dark Screenshot](images/Challenges-Dark.png) |
+
+### Coach View
+
+Get personalized feedback and recommendations from your NutriSnap coach. The coach view provides a comprehensive overview of your nutritional journey and provides insights into your dietary habits.
+
+|              Light Mode               |                    Dark Mode                    |
+| :-----------------------------------: | :---------------------------------------------: |
+| ![Coach Screenshot](images/Coach.png) | ![Coach Dark Screenshot](images/Coach-Dark.png) |
+
+### Profile View
+
+Customize your NutriSnap experience and manage your account settings. Toggle between light and dark mode, and adjust your profile settings. Turn on/off notifications and mindfullness reminders.
+| Light Mode | Dark Mode |
+| :---------------------------------------: | :-------------------------------------------------: |
+| ![Profile Screenshot](images/Profile.png) | ![Profile Dark Screenshot](images/Profile-Dark.png) |
+
+### Camera View
+
+Capture your meals with NutriSnap and let it log the nutritional info. The camera view allows you to take a picture of your food and log it into your food journal. The camera view also provides a cropping tool to allow the user to crop the image to their desired size.
+| Light Mode | Dark Mode |
+| :---------------------------------------: | :-------------------------------------------------: |
+| ![Camera Screenshot](images/Camera.png) | ![Camera Dark Screenshot](images/Camera-Dark.png) |
+
+### Image Crop Tool
+
+Crop your images to your desired size. The image crop tool allows the user to crop the image to the size that fits best for their food log, user profile pic, social card banner, or other photos, allowing the user to crop out any unwanted parts of the image.
+
+![ImageCropTool Screenshot](images/ImageCropTool.png)
+
+### Social View
+
+Connect with friends and family, sharing your nutritional journey and celebrating your successes. The social view allows you to connect with friends and family and share your nutritional journey. The social view also provides a feed of your friends' nutritional journey.
+| Light Mode | Dark Mode |
+| :---------------------------------------: | :-------------------------------------------------: |
+| ![Social Screenshot](images/Social.png) | ![Social Dark Screenshot](images/Social-Dark.png) |
 
 ### Journal View
 
-Maintain a daily log of your meals, providing a detailed overview of your dietary patterns.
+Maintain a daily log of your meals, providing a detailed overview of your dietary patterns. The journal view allows you to view your food log and provides insights into your dietary habits. Serves as a confirmation page for the user to confirm the food they have logged.
 
 |                Light Mode                 |                      Dark Mode                      |
 | :---------------------------------------: | :-------------------------------------------------: |
@@ -151,19 +183,31 @@ Maintain a daily log of your meals, providing a detailed overview of your dietar
 
 ### Settings View
 
-Customize your NutriSnap experience and manage your account settings.
+Customize your NutriSnap experience and manage your account settings. Toggle between light and dark mode, and adjust your profile settings. Turn on/off notifications and mindfullness reminders.
 
-![Settings Screenshot](images/Settings.png)
+|                 Light Mode                  |                       Dark Mode                       |
+| :-----------------------------------------: | :---------------------------------------------------: |
+| ![Settings Screenshot](images/Settings.png) | ![Settings Dark Screenshot](images/Settings-Dark.png) |
 
-### Snackbar Confirmation Dialogue
+### MySnaps Dialogue
 
-Experience user-friendly interactions and confirmations throughout your NutriSnap journey.
+Experience user-friendly interactions and confirmations throughout your NutriSnap journey. This page allows you to view your food log and provides insights into your dietary habits. Serves as a confirmation page for the user to confirm the food they have logged.
 
-![Snackbar Screenshot](images/Snackbar-Confirm-Dialogue.png)
+|                Light Mode                 |                      Dark Mode                      |
+| :---------------------------------------: | :-------------------------------------------------: |
+| ![MySnaps Screenshot](images/MySnaps.png) | ![MySnaps Dark Screenshot](images/MySnaps-Dark.png) |
+
+### MySnapsMenu Dialogue
+
+Experience user-friendly interactions and confirmations throughout your NutriSnap journey. This dialogue allows you to select the meal type for your food log. The meal type is used to categorize your food log and provide insights into your dietary habits.
+
+|                    Light Mode                     |                          Dark Mode                          |
+| :-----------------------------------------------: | :---------------------------------------------------------: |
+| ![MySnapsMenu Screenshot](images/MySnapsMenu.png) | ![MySnapsMenu Dark Screenshot](images/MySnapsMenu-Dark.png) |
 
 ### Trends View
 
-Visualize your nutritional trends, understanding the ebbs and flows of your dietary habits over time.
+Visualize your nutritional trends, understanding the ebbs and flows of your dietary habits over time. Beautiful charts and graphs provide a comprehensive overview of your nutritional journey.
 
 |               Light Mode                |                     Dark Mode                     |
 | :-------------------------------------: | :-----------------------------------------------: |
