@@ -74,6 +74,18 @@ Leverage pioneering ML technology to effortlessly identify and track your nutrit
 - **Review & Reflect:** Look over your historical data and recognize patterns.
 - **Adjust & Optimize:** Use insights to make informed dietary adjustments.
 
+---
+
+> :fire: **Hot New Features**
+>
+> - **Celebrate & Share:** Share your achievements and progress with friends and family.
+> - **Connect & Inspire:** Connect with friends and family and share your nutritional journey.
+> - **Coach & Support:** Get personalized feedback and recommendations from your NutriSnap coach.
+> - **Customize & Personalize:** Customize your NutriSnap experience and manage your account settings.
+> - **Track & Visualize:** Visualize your nutritional trends, understanding the ebbs and flows of your dietary habits over time.
+
+To get a better understanding of the features and how to use them, please refer to the Screen Shots section below.
+
 ### Prerequisites
 
 - [Flutter](https://flutter.dev/docs/get-started/install)
