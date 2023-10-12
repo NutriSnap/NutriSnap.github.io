@@ -111,7 +111,8 @@ To get a better understanding of the features and how to use them, please refer 
 
 ## Development Status
 
-- Project Board 1: [NutriSnap Startup Board](https://github.com/orgs/NutriSnap/projects/1/views/2)
+- Project Board 1: [NutriSnap Startup Board (ML1)](https://github.com/orgs/NutriSnap/projects/1/views/2)
+- Project Board 2: [NutriSnap Development Board (ML2)](https://github.com/orgs/NutriSnap/projects/4)
 - [Milestones](https://github.com/NutriSnap/NutriSnap/milestones)
 - [Milestone 1](https://github.com/NutriSnap/NutriSnap/milestone/1)
 - [Milestone 2](https://github.com/NutriSnap/NutriSnap/milestone/2)
