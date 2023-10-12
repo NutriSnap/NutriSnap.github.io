@@ -59,10 +59,13 @@ Transform your meals into nutritional insights through intelligent, camera-power
 
 - Employ machine learning to intelligently recognize and quantify foods, evolving to understand your diet over time.
 - Classify foods based on their level of processing, and visually present dietary trends and quality.
-
-![Solution](images/banner-image.png)
-
-<!-- ![Solution Screenshot](/path_to/solution_screenshot.png) -->
+<figure>
+    <img src='images/banner-image.png' alt='NutriSnap' width='100%' height='auto'>
+    <figcaption>
+        <p align='right'>Image generated in collaboration with <a href='https://midjourney.com/'>AI</a>.
+        </a></p>
+    </figcaption>
+</figure>
 
 ## Goals
 
@@ -91,7 +94,7 @@ Leverage pioneering ML technology to effortlessly identify and track your nutrit
 
 ---
 
-> :fire: **Hot New Features**
+> 🔥 **Hot New Features**
 >
 > - **Celebrate & Share:** Share your achievements and progress with friends and family.
 > - **Connect & Inspire:** Connect with friends and family and share your nutritional journey.
@@ -208,7 +211,7 @@ Capture your meals with NutriSnap and let it log the nutritional info. The camer
 
 ### Image Crop Tool
 
-Crop your images to your desired size. The image crop tool allows the user to crop the image to the size that fits best for their food log, user profile pic, social card banner, or other photos, allowing the user to crop out any unwanted parts of the image.
+Crop your images to your desired size. The image crop tool allows the user to crop the image to the size that fits best for their food log, user profile pic, social card banner, or other photos, allowing the user to crop out any unwanted parts of the image. The image crop tool was largely based on an example provided on the <a src='https://www.geeksforgeeks.org/how-to-create-image-cropper-app-in-flutter/#'>geeksforgeeks</a> website but will be adpated further to fit the needs of the NutriSnap application and the user.
 
 ![ImageCropTool Screenshot](images/ImageCropTool.png)
 
@@ -278,11 +281,14 @@ Visualize your nutritional trends, understanding the ebbs and flows of your diet
 
 NutriSnap is designed, implemented, and maintained by a team consisting of three members:
 
-> 🚀 **Lydia Sollis**, our team lead and the catalyst behind NutriSnap, marries a rich tapestry of experiences, from a seasoned military IT manager to an aspiring full-stack developer, crafting her path meticulously through the dynamic world of technology. While pursuing her Masters in Computer Science at the University of Hawaii, NutriSnap has blossomed into a significant fragment of her thesis, embodying her passion for tech and nutritious living. Her development portfolio glows with diverse projects, including an art gallery sales website, a car-sharing platform modeled after Turo, and a utilitarian web app for UH POST building navigation. Armed with a vast arsenal of technical skills, from Java, Python, and JavaScript to mastering frameworks like React and Spring Boot, Lydia navigates through project management with a leadership style fortified by dependable teamwork, nuanced communication, and adept conflict resolution. A lover of coffee, coding, and breathtaking hikes, she orchestrates the NutriSnap project with an assiduous spirit and a heartfelt commitment to blending technology with mindful eating.
+> 🚀 **Lydia Sollis**, NutriSnap’s inspiring team lead, combines her experiences from military IT management to emerging full-stack developer while advancing her Computer Science mastery at the University of Hawaii. With NutriSnap pivotal to her thesis, it reflects her enthusiasm for technology and healthy living. Lydia's diverse development projects showcase her proficiency in various technologies and frameworks like Java, Python, JavaScript, React, and Spring Boot. Balancing technical acumen with leadership qualities – reliable teamwork, effective communication, and skilled conflict management – she harmoniously merges technology with mindful eating while enjoying coffee, coding, and spectacular hikes. NutriSnap thrives under her diligent leadership and genuine dedication to connecting tech with conscious nutrition.
+>
 > <a href="https://github.com/lsollis/"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a><a href="https://www.linkedin.com/in/lydia-sollis/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
 
-> 💻 **Michael Rogers** is a dedicated MSc Computer Science student in their second year at the University of Hawaii at Manoa, deeply involved with the Scalable Analytics and Informatics Lab (SAIL) and the Laboratory for Advanced Visualization & Applications (LAVA). Specializing in developing collaborative software with expertise in a diverse tech stack including Typescript, Python, and Flutter, Michael melds a background as an Air Force tactics and weapon systems expert with an innovative tech perspective, recently exemplified by securing a win at a hackathon for creating a VR tool to manage space-based cyberattacks. Now embarking on the journey of developing their first mobile app with "NutriSnap," Michael is propelled by a keen interest in leveraging technology to build impactful, user-centric products.
+> 💻 **Michael Rogers**, pursuing an MSc in Computer Science at the University of Hawaii at Manoa, intertwines a rich history as a retired Air Force veteran with innovative technology through notable work in collaborative software development with the Scalable Analytics and Informatics Lab (SAIL) and the Laboratory for Advanced Visualization & Applications (LAVA). Embarking on crafting the first mobile app with "NutriSnap," he's ignited by a keen desire to employ technology in creating meaningful, user-focused products, synthesizing his veteran insights with a contemporary tech approach.
+>
 > <a href="https://github.com/mlr77"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/michael-rogers-a2a1152a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
 
-> 💻 **Jingyi He**, a meticulous Computer Science student and Learning Assistant at the University of Hawaii at Manoa, constantly navigates through the realms of academic excellence, professional development, and cherished personal life with a commendable balance. Achieving a GPA above 3.5 and earning positive feedback in her part-time roles speaks to her dedicated work ethic and efficiency. Notable academic endeavors include developing a banking database simulation, initially written in C and later transitioned to C++, highlighting a solid grasp of programming and problem-solving. With skills spanning Problem Solving, Teaching, and Teamwork, and having hands-on experience with Dart/Flutter and GitHub project management, Jingyi brings a well-rounded, enthusiastic presence to the "NutriSnap" project, contributing notably to documentation and collaborative development.
+> 💻 **Jingyi He**, a meticulous Computer Science student and Learning Assistant at the University of Hawaii at Manoa, balances academic rigor, professional growth, and a fulfilling personal life with aplomb. Her commitment is evident through notable academic projects like a banking database simulation, which transitioned from C to C++, showcasing her robust programming and problem-solving skills. With capabilities in Problem Solving, Teaching, and Teamwork, along with practical experience in Dart/Flutter and GitHub project management, Jingyi brings a vibrant, well-rounded contribution to the "NutriSnap" project, significantly influencing documentation and collaborative development.
+>
 > <a href="https://github.com/jing2003"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/jingyi-he-b16b0222b/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
