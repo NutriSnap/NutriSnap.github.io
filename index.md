@@ -4,21 +4,36 @@ Transform your meals into nutritional insights through intelligent, camera-power
 
 <div align="center">
     <p float="left">
-        <img src="/images/LoginPage.png" width="75" />
-        <img src="/images/About.png" width="75" />
-        <img src="/images/Dashboard.png" width="75" />
-        <img src="/images/Journal.png" width="75" />
-        <img src="/images/Trends.png" width="75" />
-        <img src="/images/Profile.png" width="75" />
-        <img src="/images/Settings.png" width="75" />
-        <img src="/images/Camera.png" width="75" />
-        <img src="/images/Social.png" width="75" />
-        <img src="/images/MySnaps.png" width="75" />
-                <img src="/images/MySnapsMenu.png" width="75" />
-        <img src="/images/Coach.png" width="75" />
-        <img src="/images/Challenges.png" width="75" />
-        <img src="/images/ImageCropTool.png" width="75" />
+            <a href="#login"><img src="/images/LoginPage.png" width="125" alt="Login" /></a>
+            <a href="#about"><img src="/images/About.png" width="125" alt="About" /></a>
+            <a href="#dashboard"><img src="/images/Dashboard.png" width="125" alt="Dashboard" /></a>
+            <a href="#journal"><img src="/images/Journal.png" width="125" alt="Journal" /></a>
+            <a href="#trends"><img src="/images/Trends.png" width="125" alt="Trends" /></a>
+            <a href="#profile"><img src="/images/Profile.png" width="125" alt="Profile" /></a>
+            <a href="#settings"><img src="/images/Settings.png" width="125" alt="Settings" /></a>
+            <a href="#camera"><img src="/images/Camera.png" width="125" alt="Camera" /></a>
+            <a href="#social"><img src="/images/Social.png" width="125" alt="Social" /></a>
+            <a href="#mysnaps"><img src="/images/MySnaps.png" width="125" alt="MySnaps" /></a>
+            <a href="#mysnapsmenu"><img src="/images/MySnapsMenu.png" width="125" alt="MySnapsMenu" /></a>
+            <a href="#coach"><img src="/images/Coach.png" width="125" alt="Coach" /></a>
+            <a href="#challenges"><img src="/images/Challenges.png" width="125" alt="Challenges" /></a>
+            <a href="#imagecroptool"><img src="/images/ImageCropTool.png" width="125" alt="ImageCropTool" /></a>
     </p>
+        <!-- <img src="/images/LoginPage.png" width="125" />
+        <img src="/images/About.png" width="125" />
+        <img src="/images/Dashboard.png" width="125" />
+        <img src="/images/Journal.png" width="125" />
+        <img src="/images/Trends.png" width="125" />
+        <img src="/images/Profile.png" width="125" />
+        <img src="/images/Settings.png" width="125" />
+        <img src="/images/Camera.png" width="125" />
+        <img src="/images/Social.png" width="125" />
+        <img src="/images/MySnaps.png" width="125" />
+                <img src="/images/MySnapsMenu.png" width="125" />
+        <img src="/images/Coach.png" width="125" />
+        <img src="/images/Challenges.png" width="125" />
+        <img src="/images/ImageCropTool.png" width="125" />
+    </p> -->
 </div>
 
 ## Table of Contents
@@ -119,6 +134,8 @@ To get a better understanding of the features and how to use them, please refer 
 
 ## Screenshots
 
+<a name="login"></a>
+
 ### Login Page
 
 The gateway to NutriSnap, ensuring secure and personalized user experiences.
@@ -126,6 +143,8 @@ The gateway to NutriSnap, ensuring secure and personalized user experiences.
 |                Signin Mode                |                      Signup                      |
 | :---------------------------------------: | :----------------------------------------------: |
 | ![Login Screenshot](images/LoginPage.png) | ![Register Dark Screenshot](images/Register.png) |
+
+<a name="dashboard"></a>
 
 ### Dashboard View
 
@@ -135,6 +154,8 @@ Your nutritional overview, presenting a snapshot of your current and historical 
 | :-------------------------------------------: | :-----------------------------------------------------: |
 | ![Dashboard Screenshot](images/Dashboard.png) | ![Dashboard Dark Screenshot](images/Dashboard-Dark.png) |
 
+<a name="about"></a>
+
 ### About View
 
 Learn more about NutriSnap and the team behind it. The about page provides a comprehensive overview of the application and its features. It also links directly to the documentation and the GitHub repository.
@@ -142,6 +163,8 @@ Learn more about NutriSnap and the team behind it. The about page provides a com
 |              Light Mode               |                    Dark Mode                    |
 | :-----------------------------------: | :---------------------------------------------: |
 | ![About Screenshot](images/About.png) | ![About Dark Screenshot](images/About-Dark.png) |
+
+<a name="challenges"></a>
 
 ### Challenges View
 
@@ -151,6 +174,8 @@ Celebrate your nutritional victories and keep track of your progress with insigh
 | :---------------------------------------------: | :-------------------------------------------------------: |
 | ![Challenges Screenshot](images/Challenges.png) | ![Challenges Dark Screenshot](images/Challenges-Dark.png) |
 
+<a name="coach"></a>
+
 ### Coach View
 
 Get personalized feedback and recommendations from your NutriSnap coach. The coach view provides a comprehensive overview of your nutritional journey and provides insights into your dietary habits.
@@ -159,12 +184,16 @@ Get personalized feedback and recommendations from your NutriSnap coach. The coa
 | :-----------------------------------: | :---------------------------------------------: |
 | ![Coach Screenshot](images/Coach.png) | ![Coach Dark Screenshot](images/Coach-Dark.png) |
 
+<a name="profile"></a>
+
 ### Profile View
 
 Customize your NutriSnap experience and manage your account settings. Toggle between light and dark mode, and adjust your profile settings. Turn on/off notifications and mindfullness reminders.
 | Light Mode | Dark Mode |
 | :---------------------------------------: | :-------------------------------------------------: |
 | ![Profile Screenshot](images/Profile.png) | ![Profile Dark Screenshot](images/Profile-Dark.png) |
+
+<a name="camera"></a>
 
 ### Camera View
 
@@ -173,11 +202,15 @@ Capture your meals with NutriSnap and let it log the nutritional info. The camer
 | :---------------------------------------: | :-------------------------------------------------: |
 | ![Camera Screenshot](images/Camera.png) | ![Camera Dark Screenshot](images/Camera-Dark.png) |
 
+<a name="imagecroptool"></a>
+
 ### Image Crop Tool
 
 Crop your images to your desired size. The image crop tool allows the user to crop the image to the size that fits best for their food log, user profile pic, social card banner, or other photos, allowing the user to crop out any unwanted parts of the image.
 
 ![ImageCropTool Screenshot](images/ImageCropTool.png)
+
+<a name="social"></a>
 
 ### Social View
 
@@ -185,6 +218,8 @@ Connect with friends and family, sharing your nutritional journey and celebratin
 | Light Mode | Dark Mode |
 | :---------------------------------------: | :-------------------------------------------------: |
 | ![Social Screenshot](images/Social.png) | ![Social Dark Screenshot](images/Social-Dark.png) |
+
+<a name="journal"></a>
 
 ### Journal View
 
@@ -194,6 +229,8 @@ Maintain a daily log of your meals, providing a detailed overview of your dietar
 | :---------------------------------------: | :-------------------------------------------------: |
 | ![Journal Screenshot](images/Journal.png) | ![Journal Dark Screenshot](images/Journal-Dark.png) |
 
+<a name="settings"></a>
+
 ### Settings View
 
 Customize your NutriSnap experience and manage your account settings. Toggle between light and dark mode, and adjust your profile settings. Turn on/off notifications and mindfullness reminders.
@@ -201,6 +238,8 @@ Customize your NutriSnap experience and manage your account settings. Toggle bet
 |                 Light Mode                  |                       Dark Mode                       |
 | :-----------------------------------------: | :---------------------------------------------------: |
 | ![Settings Screenshot](images/Settings.png) | ![Settings Dark Screenshot](images/Settings-Dark.png) |
+
+<a name="mysnaps"></a>
 
 ### MySnaps Dialogue
 
@@ -210,6 +249,8 @@ Experience user-friendly interactions and confirmations throughout your NutriSna
 | :---------------------------------------: | :-------------------------------------------------: |
 | ![MySnaps Screenshot](images/MySnaps.png) | ![MySnaps Dark Screenshot](images/MySnaps-Dark.png) |
 
+<a name="mysnapsmenu"></a>
+
 ### MySnapsMenu Dialogue
 
 Experience user-friendly interactions and confirmations throughout your NutriSnap journey. This dialogue allows you to select the meal type for your food log. The meal type is used to categorize your food log and provide insights into your dietary habits.
@@ -218,6 +259,8 @@ Experience user-friendly interactions and confirmations throughout your NutriSna
 | :-----------------------------------------------: | :---------------------------------------------------------: |
 | ![MySnapsMenu Screenshot](images/MySnapsMenu.png) | ![MySnapsMenu Dark Screenshot](images/MySnapsMenu-Dark.png) |
 
+<a name="trends"></a>
+
 ### Trends View
 
 Visualize your nutritional trends, understanding the ebbs and flows of your dietary habits over time. Beautiful charts and graphs provide a comprehensive overview of your nutritional journey.
@@ -225,6 +268,8 @@ Visualize your nutritional trends, understanding the ebbs and flows of your diet
 |               Light Mode                |                     Dark Mode                     |
 | :-------------------------------------: | :-----------------------------------------------: |
 | ![Trends Screenshot](images/Trends.png) | ![Trends Dark Screenshot](images/Trends-Dark.png) |
+
+<a name="imagecroptool"></a>
 
 ## About Us
 
