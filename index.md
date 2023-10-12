@@ -3,14 +3,20 @@
 Transform your meals into nutritional insights through intelligent, camera-powered food logging.
 
 <div align="center">
-<p float="left">
-  <img src="/images/LoginPage.png" width="100" />
-  <img src="/images/Dashboard.png" width="100" />
-  <img src="/images/SnapPage.png" width="100" />
-  <img src="/images/Journal.png" width="100" />
-  <img src="/images/Trends.png" width="100" />
-  <img src="/images/Acheivements.png" width="100" />
-</p>
+    <p float="left">
+        <img src="/images/LoginPage.png" width="75" />
+        <img src="/images/About.png" width="75" />
+        <img src="/images/Dashboard.png" width="75" />
+        <img src="/images/Journal.png" width="75" />
+        <img src="/images/Trends.png" width="75" />
+        <img src="/images/Profile.png" width="75" />
+        <img src="/images/Settings.png" width="75" />
+        <img src="/images/Camera.png" width="75" />
+        <img src="/images/Social.png" width="75" />
+        <img src="/images/SnapPage.png" width="75" />
+        <img src="/images/Coach.png" width="75" />
+        <img src="/images/Acheivements.png" width="75" />
+    </p>
 </div>
 
 ## Table of Contents
