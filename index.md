@@ -63,7 +63,7 @@ Transform your meals into nutritional insights through intelligent, camera-power
     <img src='images/banner-image.png' alt='NutriSnap' width='100%' height='auto'>
     <figcaption>
         <p align='right'>Image generated in collaboration with <a href='https://midjourney.com/'>AI</a>.
-        </a></p>
+        </p>
     </figcaption>
 </figure>
 
