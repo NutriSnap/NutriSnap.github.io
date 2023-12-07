@@ -87,7 +87,7 @@
 
 ##### 8. Settings:
 
-<img src="/images/Settings.png" width="300" />
+<img src="/images/Settings-new.png" width="300" />
 
 - Desire for the ability to silence social features.
 - Suggestion to add a specific goals page for detailed goal-setting.
@@ -134,15 +134,4 @@
 
 - The app has been submitted as a candidate capstone project for ICS 496 next semester.
 - Conduct two more user testing interviews before the end of the semester.
-- Finish CRUD functions and add badge icons by the end of the semester:
-
-    <p>
-        <img src="/images/avoider.png" width="125" />
-        <img src="/images/first_snap.png" width="125" />
-        <img src="/images/great_breakfast.png" width="125" />
-        <img src="/images/home_cooking.png" width="125" />
-        <img src="/images/natural_yogurt_switch.png" width="125" />
-        <img src="/images/nutty_snacks.png" width="125" />
-        <img src="/images/unprocessed.png" width="125" />
-        <img src="/images/seven_day_snap.png" width="125" />
-    </p>
+- Finish CRUD functions by the end of the semester:
