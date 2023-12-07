@@ -45,7 +45,29 @@ The recruitment process will include:
 
 ## Additional Testing Questions
 
-- [Include all the additional questions related to the co-design session and user expectations]
+- Reviewed each screen with participant and asked for feedback and ideas for improvement
+- Conducted co-design interviews earlier in the semester asking for ideas and opinions about an AI-based food logging app:
+
+### Open-ended Questions
+1. Do you currently or have you ever tracked or logged your food?
+2. What methods or tools do you currently use to track your food?
+3. What were your primary goals in tracking your food, and what metrics do you prefer to track?
+4. What challenges do you face when tracking or logging your food?
+5. What are the best features of food logging apps you have previously used, and why?
+6. How familiar are you with AI and machine learning?
+7. How would you feel about an app that automatically recognizes and logs your food using AI?
+8. What concerns would you have about using an AI-powered food logging app? (e.g., accuracy, privacy, data usage)
+9. What, if anything, could be done to address those concerns?
+10. What features would you find most beneficial in such an app?
+11. Are there any specific foods or cuisines you'd want the app to recognize with high accuracy?
+12. Would you be interested in having the app log servings or nutritional information based on the recognized food? Why or why not?
+13. How important is the app's speed and responsiveness in recognizing and logging food to you?
+14. What would make you trust the app's food recognition more?
+15. Would you prefer a more hands-on approach where you can correct the app's mistakes, or would you prefer the app to work more autonomously?
+16. Are there any features or functionalities you would definitely NOT want in such an app?
+17. How do you feel about the app learning from your corrections or inputs, and creating a customized food logging profile for you to increase logging accuracy?
+18. What would encourage you to use this app regularly?
+19. What social or gamelike features would improve your consistency in food logging?
 
 ## Observations and Feedback
 
