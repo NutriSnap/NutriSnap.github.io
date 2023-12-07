@@ -47,16 +47,16 @@
 - Positive feedback on the food breakdown chart (processed, unprocessed, ultra-processed).
 - Appreciation for visible accomplishments and challenges.
 - Importance of mindfulness features.
-- Desire for detailed macronutrient breakdown.
-- Requested push notifications and a checklist on the dashboard for meal logging and other task reminders.
+- **Desire for detailed macronutrient breakdown.**
+- **Requested push notifications and a checklist on the dashboard for meal logging and other task reminders.**
 
 ##### 3. Journal:
 
 <img src="/images/Journal-Dark.png" width="300" />
 
 - Card layout with half picture, and half information is well-received.
-- Suggestion to add meals as headings with snaps for each meal underneath.
-- Request for inclusion of macronutrient details in the meal cards (protein, fat, carbohydrates).
+- **Suggestion to add meals as headings with snaps for each meal underneath.**
+- **Request for inclusion of macronutrient details in the meal cards (protein, fat, carbohydrates).**
 
 ##### 4. Trends Page:
 
@@ -76,20 +76,20 @@
 
 <img src="/images/Social.png" width="300" />
 
-- Support for a social feed where users can share meals and progress.
+- **Support for an instagram social feed where users can share meals and progress.**
 - Endorsement of using the platform for dietitians/personal trainers to offer services.
 
 ##### 7. Coach:
 
 <img src="/images/Coach.png" width="300" />
 
-- Willingness to pay for AI-based and human coaching services, with a preference for video interaction with human coaches.
+- **Willingness to pay for AI-based and human coaching services, with a preference for video interaction with human coaches.**
 
 ##### 8. Settings:
 
 <img src="/images/Settings-new.png" width="300" />
 
-- Desire for the ability to silence social features.
+- **Desire for the ability to silence social features.**
 - Suggestion to add a specific goals page for detailed goal-setting.
 
 ##### 9. Extra Features Desired:
@@ -128,10 +128,10 @@
 
 #### 4. Enhanced Communication Features:
 
-- Add a chat box icon in the app bar for quick access to messages with friends and the AI bot.
+- **Add a chat box icon in the app bar for quick access to messages with friends and the AI bot.**
 
 ### Plans for the Future:
 
-- The app has been submitted as a candidate capstone project for ICS 496 next semester.
 - Conduct two more user testing interviews before the end of the semester.
-- Finish CRUD functions by the end of the semester:
+- Finish CRUD functions by the end of the semester.
+- - The app has been submitted as a candidate capstone project for ICS 496 next semester.
