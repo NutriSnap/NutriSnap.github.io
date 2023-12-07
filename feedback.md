@@ -1,39 +1,5 @@
 # Feedback Summary
 
-<div align="center">
-    <p float="left">
-            <a href="#login"><img src="/images/LoginPage.png" width="125" alt="Login" /></a>
-            <a href="#about"><img src="/images/About.png" width="125" alt="About" /></a>
-            <a href="#dashboard"><img src="/images/Dashboard.png" width="125" alt="Dashboard" /></a>
-            <a href="#journal"><img src="/images/Journal.png" width="125" alt="Journal" /></a>
-            <a href="#trends"><img src="/images/Trends.png" width="125" alt="Trends" /></a>
-            <a href="#profile"><img src="/images/Profile.png" width="125" alt="Profile" /></a>
-            <a href="#settings"><img src="/images/Settings.png" width="125" alt="Settings" /></a>
-            <a href="#camera"><img src="/images/Camera.png" width="125" alt="Camera" /></a>
-            <a href="#social"><img src="/images/Social.png" width="125" alt="Social" /></a>
-            <a href="#mysnaps"><img src="/images/MySnaps.png" width="125" alt="MySnaps" /></a>
-            <a href="#mysnapsmenu"><img src="/images/MySnapsMenu.png" width="125" alt="MySnapsMenu" /></a>
-            <a href="#coach"><img src="/images/Coach.png" width="125" alt="Coach" /></a>
-            <a href="#challenges"><img src="/images/Challenges.png" width="125" alt="Challenges" /></a>
-            <a href="#imagecroptool"><img src="/images/ImageCropTool.png" width="125" alt="ImageCropTool" /></a>
-    </p>
-        <!-- <img src="/images/LoginPage.png" width="125" />
-        <img src="/images/About.png" width="125" />
-        <img src="/images/Dashboard.png" width="125" />
-        <img src="/images/Journal.png" width="125" />
-        <img src="/images/Trends.png" width="125" />
-        <img src="/images/Profile.png" width="125" />
-        <img src="/images/Settings.png" width="125" />
-        <img src="/images/Camera.png" width="125" />
-        <img src="/images/Social.png" width="125" />
-        <img src="/images/MySnaps.png" width="125" />
-                <img src="/images/MySnapsMenu.png" width="125" />
-        <img src="/images/Coach.png" width="125" />
-        <img src="/images/Challenges.png" width="125" />
-        <img src="/images/ImageCropTool.png" width="125" />
-    </p> -->
-</div>
-
 ## Open-Ended Interview Feedback
 
 ### Most interesting themes and recommendations from open-ended interviews discussing the concept of an AI food logging app:
