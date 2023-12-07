@@ -142,7 +142,7 @@ To get a better understanding of the features and how to use them, please refer 
 The gateway to NutriSnap, ensuring secure and personalized user experiences.
 
 |                Signin Mode                |                      Signup                      |
-| :---------------------------------------: | :----------------------------------------------: |
+|:-----------------------------------------:|:------------------------------------------------:|
 | ![Login Screenshot](images/LoginPage.png) | ![Register Dark Screenshot](images/Register.png) |
 
 <a name="dashboard"></a>
@@ -250,7 +250,7 @@ Customize your NutriSnap experience and manage your account settings. Toggle bet
 Experience user-friendly interactions and confirmations throughout your NutriSnap journey. This page allows you to view your food log and provides insights into your dietary habits. Serves as a confirmation page for the user to confirm the food they have logged.
 
 |                Light Mode                 |                      Dark Mode                      |
-| :---------------------------------------: | :-------------------------------------------------: |
+|:-----------------------------------------:|:---------------------------------------------------:|
 | ![MySnaps Screenshot](images/MySnaps.png) | ![MySnaps Dark Screenshot](images/MySnaps-Dark.png) |
 
 <a name="mysnapsmenu"></a>
@@ -260,7 +260,7 @@ Experience user-friendly interactions and confirmations throughout your NutriSna
 Experience user-friendly interactions and confirmations throughout your NutriSnap journey. This dialogue allows you to select the meal type for your food log. The meal type is used to categorize your food log and provide insights into your dietary habits.
 
 |                    Light Mode                     |                          Dark Mode                          |
-| :-----------------------------------------------: | :---------------------------------------------------------: |
+|:-------------------------------------------------:|:-----------------------------------------------------------:|
 | ![MySnapsMenu Screenshot](images/MySnapsMenu.png) | ![MySnapsMenu Dark Screenshot](images/MySnapsMenu-Dark.png) |
 
 <a name="trends"></a>
