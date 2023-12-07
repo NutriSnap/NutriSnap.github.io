@@ -4,7 +4,7 @@
 
 This section outlines the primary user goals that the NutriSnap app aims to address. These goals are derived from user needs and expectations identified in our previous research and development phases.
 
-1. **Goal 1: Easy Food Logging** - Users should be able to quickly and accurately log their food intake using the camera feature.
+1. **Goal 1: Easy Food Logging** - Users should be able to accurately log their food intake using the camera feature.
 2. **Goal 2: Accessing Nutritional Information** - Users should easily access and understand the nutritional information of the logged food.
 3. **Goal 3: Tracking Nutritional Trends** - Users should be able to review their eating habits over time and gain insights into their nutritional trends.
 
