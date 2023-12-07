@@ -40,7 +40,7 @@
 
 ##### 3. Journal:
 
-<img src="/images/Journal.png" width="300" />
+<img src="/images/Journal-Dark.png" width="300" />
 
 - Card layout with half picture, and half information is well-received.
 - Suggestion to add meals as headings with snaps for each meal underneath.

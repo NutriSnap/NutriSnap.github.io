@@ -7,7 +7,7 @@ Transform your meals into nutritional insights through intelligent, camera-power
             <a href="#login"><img src="/images/LoginPage.png" width="125" alt="Login" /></a>
             <a href="#about"><img src="/images/About.png" width="125" alt="About" /></a>
             <a href="#dashboard"><img src="/images/Dashboard.png" width="125" alt="Dashboard" /></a>
-            <a href="#journal"><img src="/images/Journal.png" width="125" alt="Journal" /></a>
+            <a href="#journal"><img src="/images/Journal-Dark.png" width="125" alt="Journal" /></a>
             <a href="#trends"><img src="/images/Trends.png" width="125" alt="Trends" /></a>
             <a href="#profile"><img src="/images/Profile.png" width="125" alt="Profile" /></a>
             <a href="#settings"><img src="/images/Settings.png" width="125" alt="Settings" /></a>
@@ -22,7 +22,7 @@ Transform your meals into nutritional insights through intelligent, camera-power
         <!-- <img src="/images/LoginPage.png" width="125" />
         <img src="/images/About.png" width="125" />
         <img src="/images/Dashboard.png" width="125" />
-        <img src="/images/Journal.png" width="125" />
+        <img src="/images/Journal-Dark.png" width="125" />
         <img src="/images/Trends.png" width="125" />
         <img src="/images/Profile.png" width="125" />
         <img src="/images/Settings.png" width="125" />
@@ -231,7 +231,7 @@ Maintain a daily log of your meals, providing a detailed overview of your dietar
 
 |                Light Mode                 |                      Dark Mode                      |
 | :---------------------------------------: | :-------------------------------------------------: |
-| ![Journal Screenshot](images/Journal.png) | ![Journal Dark Screenshot](images/Journal-Dark.png) |
+| ![Journal Screenshot](images/Journal-Dark.png) | ![Journal Dark Screenshot](images/Journal.png) |
 
 <a name="settings"></a>
 
