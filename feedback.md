@@ -2,17 +2,26 @@
 
 ## Open-Ended Interview Feedback
 
-### Most interesting themes and recommendations from open-ended interviews discussing the concept of an AI food logging app:
-1. **Emotional and Psychological Impact of App Messaging**:
-    - Concern about the potential for the app to induce feelings of guilt or anxiety regarding food choices.
-    - Emphasis on constructive feedback rather than negative messaging.
+### Themes and recommendations from open-ended interviews discussing the concept of an AI food logging app:
 
-2. **Recognition of Diverse Foods**:
+![Interview Themes by Frequency](images/interview-themes-chart.png)
+
+1. **Ease of Use**:
+    - The app should not be time-consuming and logging food should not add significant time overhead to the user's daily routine.
+    - Searching databases for exactly the right food can be frustrating, and an app that does this automatically based on a photo be highly desirable.
+
+2. **Accuracy and Recognition of Diverse Foods**:
     - Importance of the AI model recognizing traditional Hawaiian and other ethnic foods.
 
-3. **Extra Features Desired**:
+3. **Privacy**:
+    - Two of three users did not care about or have any concerns about privacy.
+    - One user had significant concerns about privacy and emphasized the need for clear communication about data usage, storage, and security.
+    - Options like end-to-end encryption and storing data on the user's device were viewed positively.
+
+4. **Personalization and Variation in Desired Features**:
     - Variation in desired features, but meal planning, workout tracking, goal tracking, and competitions with friends were popular.
     - Idea of creating an avatar or character to represent the AI.
+    - One participant had previously used three different apps simultaneously for food preparation and logging: one to generate recipes based on food in the fridge, one for a photo food journal, and one to track macronutrients and calories. This person wished for a single app to fulfill all three functions.
 
 ## User Testing Feedback
 
@@ -111,6 +120,16 @@
 - Add a chat box icon in the app bar for quick access to messages with friends and the AI bot.
 
 ### Plans for the Future:
+- The app has been submitted as a candidate capstone project for ICS 496 next semester.
 - Conduct two more user testing interviews before the end of the semester.
-- Focus on getting the CRUD and camera functions working at a minimum before any further user testing after this semester.
-- The app has been submitted as a capstone project for ICS 496 for the next semester.
+- Finish CRUD functions and add badge icons by the end of the semester:
+
+    <p>
+        <img src="/images/avoider.png" width="125" />
+        <img src="/images/first_snap.png" width="125" />
+        <img src="/images/great_breakfast.png" width="125" />
+        <img src="/images/home_cooking.png" width="125" />
+        <img src="/images/natural_yogurt_switch.png" width="125" />
+        <img src="/images/nutty_snacks.png" width="125" />
+        <img src="/images/unprocessed.png" width="125" />
+    </p>
