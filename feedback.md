@@ -7,24 +7,21 @@
 ![Interview Themes by Frequency](images/interview-themes-chart.png)
 
 1. **Ease of Use**:
-
-   - The app should not be time-consuming and logging food should not add significant time overhead to the user's daily routine.
-   - Searching databases for exactly the right food can be frustrating, and an app that does this automatically based on a photo be highly desirable.
+    - The app should not be time-consuming and logging food should not add significant time overhead to the user's daily routine.
+    - Searching databases for exactly the right food can be frustrating, and an app that does this automatically based on a photo be highly desirable.
 
 2. **Accuracy and Recognition of Diverse Foods**:
-
-   - Importance of the AI model recognizing traditional Hawaiian and other ethnic foods.
+    - Importance of the AI model recognizing traditional Hawaiian and other ethnic foods.
 
 3. **Privacy**:
-
-   - Two of three users did not care about or have any concerns about privacy.
-   - One user had significant concerns about privacy and emphasized the need for clear communication about data usage, storage, and security.
-   - Options like end-to-end encryption and storing data on the user's device were viewed positively.
+    - Two of three users did not care about or have any concerns about privacy.
+    - One user had significant concerns about privacy and emphasized the need for clear communication about data usage, storage, and security.
+    - Options like end-to-end encryption and storing data on the user's device were viewed positively.
 
 4. **Personalization and Variation in Desired Features**:
-   - Variation in desired features, but meal planning, workout tracking, goal tracking, and competitions with friends were popular.
-   - Idea of creating an avatar or character to represent the AI.
-   - One participant had previously used three different apps simultaneously for food preparation and logging: one to generate recipes based on food in the fridge, one for a photo food journal, and one to track macronutrients and calories. This person wished for a single app to fulfill all three functions.
+    - Variation in desired features, but meal planning, workout tracking, goal tracking, and competitions with friends were popular.
+    - Idea of creating an avatar or character to represent the AI.
+    - One participant had previously used three different apps simultaneously for food preparation and logging: one to generate recipes based on food in the fridge, one for a photo food journal, and one to track macronutrients and calories. This person wished for a single app to fulfill all three functions.
 
 ## User Testing Feedback
 
@@ -39,6 +36,7 @@
 - Warm colors and fruit imagery give a healthy and welcoming impression.
 - Design appeals to new users or those wanting to start healthier habits.
 - Suggest incorporating a photo or loop video showing high-protein meal preparation to attract experienced users.
+- **Liked the calming blue background and simple layout, but confusion over GitHub icon mistaken for a social login option.**
 
 ##### 2. Dashboard:
 
@@ -49,6 +47,9 @@
 - Importance of mindfulness features.
 - **Desire for detailed macronutrient breakdown.**
 - **Requested push notifications and a checklist on the dashboard for meal logging and other task reminders.**
+- **Found design clean but somewhat plain; suggested adding dynamic elements like a rotating quote of the day.**
+- **Desired more personalized features, such as setting dietary goals (e.g., low sugar).**
+- **Requested bar charts for daily nutritional values and a color-coded system for dietary balance.**
 
 ##### 3. Journal:
 
@@ -57,6 +58,8 @@
 - Card layout with half picture, and half information is well-received.
 - **Suggestion to add meals as headings with snaps for each meal underneath.**
 - **Request for inclusion of macronutrient details in the meal cards (protein, fat, carbohydrates).**
+- **Questioned app's ability to automatically crop and adjust images.**
+- **Proposed filtering journal entries by food type (e.g., vegan, keto).**
 
 ##### 4. Trends Page:
 
@@ -64,6 +67,8 @@
 
 - Interest in viewing weekly or monthly statistics in a chart format.
 - Desire to see macronutrient or processed percentage trends over time.
+- **Expected functionality similar to a stock market app for tracking nutrient intake over time.**
+- **Wanted options to customize the graph display, like nutrient selection and time range adjustments.**
 
 ##### 5. Challenges:
 
@@ -71,6 +76,8 @@
 
 - Interest in workout and step goal challenges.
 - Suggestion for a leaderboard and the ability to form and compete within friend groups.
+- **Excited about group challenges with a leaderboard for motivation.**
+- **Hoped for a range of challenges, from daily tasks to long-term goals.**
 
 ##### 6. Friends:
 
@@ -78,6 +85,8 @@
 
 - **Support for an instagram social feed where users can share meals and progress.**
 - Endorsement of using the platform for dietitians/personal trainers to offer services.
+- **Emphasized need for privacy settings for dietary information.**
+- **Interested in sharing recipes and tips within the app community.**
 
 ##### 7. Coach:
 
@@ -90,7 +99,11 @@
 <img src="/images/Settings-new.png" width="300" />
 
 - **Desire for the ability to silence social features.**
-- Suggestion to add a specific goals page for detailed goal-setting.
+- Suggestion to add a specific goals page for
+
+detailed goal-setting.
+- **Wanted detailed settings for dietary preferences, allergen alerts, and goals (e.g., weight loss).**
+- **Requested in-depth explanations for features like 'mindfulness check-ins'.**
 
 ##### 9. Extra Features Desired:
 
@@ -134,4 +147,4 @@
 
 - Conduct two more user testing interviews before the end of the semester.
 - Finish CRUD functions by the end of the semester.
-- - The app has been submitted as a candidate capstone project for ICS 496 next semester.
+- The app has been submitted as a candidate capstone project for ICS 496 next semester.
