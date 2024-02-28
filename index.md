@@ -302,6 +302,14 @@ NutriSnap is designed, implemented, and maintained by a team consisting of three
 >
 > <a href="https://github.com/lsollis/"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a><a href="https://www.linkedin.com/in/lydia-sollis/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
 
+> 💻 **Hubert Liang**, a Computer Science student at the University of Hawaii at Manoa, building towards aspirations of a Software Engineer. Previous projects have demonstrated prior full-stack development with various languages and frameworks, the main ones being Python, JavaScript, and Posix C.
+>
+> <a href="https://github.com/hooobot"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/hubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
+
+> 💻 **Elijah Davis**, an ambitious Computer Science student at the University of Hawaii at Manoa, with a desire in full-stack development.
+>
+> <a href="https://github.com/jing2003"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/jingyi-he-b16b0222b/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
+
 > 💻 **Michael Rogers**, pursuing an MSc in Computer Science at the University of Hawaii at Manoa, intertwines a rich history as a retired Air Force veteran with innovative technology through notable work in collaborative software development with the Scalable Analytics and Informatics Lab (SAIL) and the Laboratory for Advanced Visualization & Applications (LAVA). Embarking on crafting the first mobile app with "NutriSnap," he's ignited by a keen desire to employ technology in creating meaningful, user-focused products, synthesizing his veteran insights with a contemporary tech approach.
 >
 > <a href="https://github.com/mlr77"><img src="images/github-mark.png" alt="GitHub" width="32" height="32"></a> <a href="https://www.linkedin.com/in/michael-rogers-a2a1152a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" width="32" height="32"></a>
