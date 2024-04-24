@@ -296,7 +296,7 @@ The data model encompasses a holistic representation of a user's nutritional and
 
 ## About Us
 
-NutriSnap is designed, implemented, and maintained by a team consisting of three members:
+NutriSnap is designed, implemented, and maintained by a team consisting of five members:
 
 > 🚀 **Lydia Sollis**, NutriSnap’s inspiring team lead, combines her experiences from military IT management to emerging full-stack developer while advancing her Computer Science mastery at the University of Hawaii. With NutriSnap pivotal to her thesis, it reflects her enthusiasm for technology and healthy living. Lydia's diverse development projects showcase her proficiency in various technologies and frameworks like Java, Python, JavaScript, React, and Spring Boot. Balancing technical acumen with leadership qualities – reliable teamwork, effective communication, and skilled conflict management – she harmoniously merges technology with mindful eating while enjoying coffee, coding, and spectacular hikes. NutriSnap thrives under her diligent leadership and genuine dedication to connecting tech with conscious nutrition.
 >
